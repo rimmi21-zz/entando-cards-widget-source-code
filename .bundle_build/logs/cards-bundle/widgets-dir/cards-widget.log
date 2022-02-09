@@ -1,0 +1,507 @@
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1429 packages in 4.579s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.71ab45f9.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1429 packages in 5.707s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.71ab45f9.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1429 packages in 4.886s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.71ab45f9.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1429 packages in 4.982s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.d5d00afe.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1450 packages in 4.832s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.393s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.637s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.375s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.498s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.11 kB  build/static/js/main.2ed35d73.js
+24.4 kB   build/static/css/main.56e6221f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.694s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.974s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1320 packages in 4.449s
+
+172 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.13 kB  build/static/js/main.2409c7ac.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
+Installing micro-frontend dependencies
+npm WARN @apideck/better-ajv-errors@0.3.2 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+audited 1291 packages in 6.648s
+
+171 packages are looking for funding
+  run `npm fund` for details
+
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Building micro-frontend code
+
+> cards-widget@0.1.0 build /Users/sohini/entando-projects/cards-bundle/ui/widgets/widgets-dir/cards-widget
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+45.15 kB  build/static/js/main.2229fbc3.js
+24.6 kB   build/static/css/main.04179b6f.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+npm install -g serve
+serve -s build
+
+Find out more about deployment here:
+
+https://cra.link/deployment
+
+widgets-dir - cards-widget built successfully
